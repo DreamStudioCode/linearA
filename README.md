@@ -1,6 +1,10 @@
-# linearA
+# Linear A - Minoan Mirror Network
 
-Our focus is on combining the translations of Hiro with information on the mirror communication network used for shipping in the Mediterranean around 1400 BCE.
+Our focus is on combining the translations of Hiro Kuroda with related information about the Minoan mirror communication network used to regulate shipping in the Mediterranean around 1400 BCE, with origins in older cultures.
+
+
+[Linear A Translation with images](hiro/)
+
 
 Please contribute updates, add comments as issues, and reuse our pages as submodules in your projects.
 

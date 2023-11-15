@@ -1,8 +1,6 @@
 # Linear A
 
-Original paper by Hiro Kuroda . Notated to include the Minoan mirror communication network that oversaw seasonal trade from island peak temples. - [LHeyns](https://dreamstudio.com/earth/)
-
-Read Loren's addition of the four trade seasons in [Phaistos Disc transation as Four Seasons](/seasons/mirror-network/#disc)
+Original paper by Hiro Kuroda updated by [Loren Heyns](https://dreamstudio.com/earth/) to include the Minoan mirror communication network which oversaw seasonal trade. Read Loren's addition of the four trade seasons in [Phaistos Disc transation as Four Seasons](https://dreamstudio.com/seasons/mirror-network/#disc)
 
 
 ## Ancient Minoans - Japanese Language Origins
